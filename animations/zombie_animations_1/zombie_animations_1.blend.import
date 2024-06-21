@@ -3629,7 +3629,7 @@ _subresources={
 "slices/amount": null
 },
 "Zombie Punch": {
-"save_to_file/enabled": true,
+"save_to_file/enabled": false,
 "save_to_file/keep_custom_tracks": true,
 "save_to_file/path": "res://animations/zombie_animations_1/zombie_animations_1_punch.res",
 "settings/loop_mode": 0,
